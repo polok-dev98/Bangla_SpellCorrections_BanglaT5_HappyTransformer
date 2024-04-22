@@ -2,14 +2,14 @@
 </br>
 
 <div align="center">
-    <img src="https://github.com/polok-dev98/Bangla_SpellCorrections_BanglaT5_HappyTransformer/assets/104290708/ad9b9cbe-ea81-4c39-8189-b696540ea8cc" alt="logo" width="600" height="420">
+    <img src="https://github.com/polok-dev98/Bangla_SpellCorrections_BanglaT5_HappyTransformer/assets/104290708/ad9b9cbe-ea81-4c39-8189-b696540ea8cc" alt="logo" width="780" height="520">
 </div>
 
 
 </br>
 </br>
 
-This repository contains code for a project focused on Bangla spell correction using the BanglaT5 model. The project involves preprocessing data, training the model, and testing its performance. Here the main goal is to fine tune bangla T5 model for Bangla spell correction task.
+This repository contains code for a project focused on Bangla spell correction using the Bangla-T5 model. The project involves preprocessing data, training the model, and testing its performance. Here the main goal is to fine tune Bangla-T5 model for Bangla spell correction task.
 
 ## Dataset
 Here used a Bangla text corpus available on Kaggle ([link](https://www.kaggle.com/datasets/nuhashafnan/corpus)) to build the dataset for training the model. Each sentence in the dataset was deliberately misspelled to create a training set for the model.
