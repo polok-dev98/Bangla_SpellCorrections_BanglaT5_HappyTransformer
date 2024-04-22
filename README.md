@@ -2,8 +2,9 @@
 </br>
 
 <div align="center">
-    <img src="(https://github.com/polok-dev98/Bangla_SpellCorrections_BanglaT5_HappyTransformer/assets/104290708/380d761c-215a-4ada-a6a6-9fbc19817223)" alt="logo" width="780" height="520">
+    ![logo](https://github.com/polok-dev98/Bangla_SpellCorrections_BanglaT5_HappyTransformer/assets/104290708/626df27b-16df-4e1a-af54-f20605066f4d)
 </div>
+
 
 </br>
 </br>
